@@ -1,0 +1,72 @@
+{
+  "_from": "swipe-angular-list",
+  "_id": "swipe-angular-list@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-Aj4DPIUGc2EdfbZ2+VX8rmr3T18PV+lST3whONfnkE4DKahCrSxaTP/txXCWzZpjsqhgPBZ5AHJvtWPiR1uXWg==",
+  "_location": "/swipe-angular-list",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "swipe-angular-list",
+    "name": "swipe-angular-list",
+    "escapedName": "swipe-angular-list",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/swipe-angular-list/-/swipe-angular-list-1.0.4.tgz",
+  "_shasum": "a92d0e43ae1924065d560186e635a14ca194c9b2",
+  "_spec": "swipe-angular-list",
+  "_where": "/media/javauser/914fa200-2352-479a-be3f-039edc4d1f6a/home/javauser/angular projects/my-new-app",
+  "author": {
+    "name": "Weblineindia"
+  },
+  "bundleDependencies": [
+    "hammerjs"
+  ],
+  "dependencies": {
+    "hammerjs": "*",
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "An AngularJS based Swipe List component which provides swipe effects in your Angular application. It also allows you to change button options like you can place delete / edit / info buttons as per your requirements.",
+  "es2015": "fesm2015/swipe-angular-list.js",
+  "esm2015": "esm2015/swipe-angular-list.js",
+  "esm5": "esm5/swipe-angular-list.js",
+  "fesm2015": "fesm2015/swipe-angular-list.js",
+  "fesm5": "fesm5/swipe-angular-list.js",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "angularjs-touch",
+    "angular-gestures",
+    "angularjs",
+    "angular-pwa",
+    "angular-slide",
+    "angular-swipe-list",
+    "swipelist",
+    "angular-swiper",
+    "swipe-list"
+  ],
+  "license": "MIT",
+  "main": "bundles/swipe-angular-list.umd.js",
+  "metadata": "swipe-angular-list.metadata.json",
+  "module": "fesm5/swipe-angular-list.js",
+  "name": "angular-weblineindia-swipe",
+  "peerDependencies": {
+    "@angular/common": "^8.2.0",
+    "@angular/core": "^8.2.0",
+    "hammerjs": "^2.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weblineindia/AngularJS-Swipe-List"
+  },
+  "sideEffects": false,
+  "typings": "swipe-angular-list.d.ts",
+  "version": "1.0.0"
+}
